@@ -1,5 +1,5 @@
 {
-	"ip":"Geos.aternos.me",
-	"port": "25565",
-	"name": "afkbot"
+	"ip":"Geos.aternos.me:23111",
+	"port": "23111",
+	"name": "Geobot"
 }
